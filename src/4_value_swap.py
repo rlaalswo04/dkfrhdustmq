@@ -23,5 +23,3 @@ print(f'x: {x}, y: {y}')
 
 res1,res2 = value_swap(x, y)
 print(f'x: {res1}, y:{res2}')
-
-
