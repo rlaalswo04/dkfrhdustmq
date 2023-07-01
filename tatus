@@ -1,0 +1,41 @@
+[33mcommit fe943bfdb66fb25f1f88710fdd4eed3ca733284e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <bravegirls1234@gmail.com>
+Date:   Sat Jul 1 11:49:44 2023 +0900
+
+    added multiply game
+
+[33mcommit 0116804329637ec8c0ce86a851a0f50d7da18d16[m
+Author: unknown <bravegirls1234@gmail.com>
+Date:   Sat Jun 24 11:57:18 2023 +0900
+
+    값교환
+
+[33mcommit 04c32668c32a90f0f0d6b29468a74e7454653c8d[m
+Author: unknown <bravegirls1234@gmail.com>
+Date:   Sat Jun 24 11:08:38 2023 +0900
+
+    최댓값 로직을 최솟값 로직으로 변경하고 최솟값 찾기
+
+[33mcommit e654066f4ef78ca35ecc33f3c5b05c68300fcb34[m
+Author: rlaalswo04 <bravegirls1234@gmail.com>
+Date:   Sat May 27 11:57:20 2023 +0900
+
+    동명이인 찾기
+
+[33mcommit 31ebfd3e6dec89fd5e1a4d0a47f17e079b1abd65[m
+Author: rlaalswo04 <bravegirls1234@gmail.com>
+Date:   Sat May 13 11:45:06 2023 +0900
+
+    최댓값 찾기문제
+
+[33mcommit 00b6e1d685d5d2309b2a819a7dc151bead0c42cc[m
+Author: rlaalswo04 <bravegirls1234@gmail.com>
+Date:   Sat May 13 11:16:23 2023 +0900
+
+    src생성,sepuence 1~ 100 합 구하기
+
+[33mcommit d504dc236e63082d11db7299fd769983d272b990[m
+Author: rlaalswo04 <bravegirls1234@gmail.com>
+Date:   Sat May 13 10:46:03 2023 +0900
+
+    first commit
