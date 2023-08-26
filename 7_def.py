@@ -19,5 +19,5 @@ def test_list():
 
 result = add(1, 11, False)
 print(result)
-list_result = test_list(1)
+list_result = test_list()
 print(list_result)

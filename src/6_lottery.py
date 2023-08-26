@@ -13,32 +13,16 @@
 
 
 import random
-# lotto_numbs = []
-# my_num = 1
-# is_ok = True
-# while is_ok:
+lotto_numbs = []
+my_num = 1
+is_ok = True
+while is_ok:
     
-#     value = random.randint(1, 45)
-#     if value in lotto_numbs:
-#         continue
-#     lotto_numbs.append(value)
-#     if len(lotto_numbs) == 6:
-#         break
+    value = random.randint(1, 45)
+    if value in lotto_numbs:
+        continue
+    lotto_numbs.append(value)
+    if len(lotto_numbs) == 6:
+        break
     
-# print(lotto_numbs)
-
-def lotto_number_generator:
-    lotto_numbs = []
-    my_num = 1
-    is_ok = True
-    while is_ok:
-        
-        value = random.randint(1, 45)
-        if value in lotto_numbs:
-            continue
-        lotto_numbs.append(value)
-        if len(lotto_numbs) == 6:
-            break
-        
-    print(lotto_numbs)
-    
+print(lotto_numbs)
